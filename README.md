@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning data analysis
+Data analyst and machine learning enthusiast with expertise in SQL, Python, and data visualization tools such as Tableau and Power BI. Passionate about using data to uncover trends and patterns that help companies optimize operations and achieve their goals. Skilled in machine learning algorithms, statistical modeling, and data preprocessing techniques.
 
 
 ## 🌐 Socials:
@@ -18,4 +18,3 @@ I'm currently learning data analysis
 ---
 [![](https://visitcount.itsvg.in/api?id=Prabhiraj-p&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
