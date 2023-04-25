@@ -1,3 +1,4 @@
+![alt text](https://wallpapercave.com/wp/wp6691035.png)
 # 💫 About Me:
 Data analyst and machine learning enthusiast with expertise in SQL, Python, and data visualization tools such as Tableau and Power BI. Passionate about using data to uncover trends and patterns that help companies optimize operations and achieve their goals. Skilled in machine learning algorithms, statistical modeling, and data preprocessing techniques.
 
